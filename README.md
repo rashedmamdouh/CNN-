@@ -54,19 +54,5 @@ Compare the performance of the different models by conducting evaluations on the
 - Compute accuracy and Macro F-Score for each model.
 - Generate confusion matrices to identify the most confusing classes.
 
-## 6. Report
-Your report should include the following components:
-
-(a) Performance Plots:
-- Present plots of the performance results obtained during the evaluation phase.
-
-(b) Comparison and Analysis:
-- Analyze and compare the performance results across different models and hyperparameters.
-
-(c) Success and Failure Cases:
-- Illustrate success and failure cases of the models by plotting the corresponding images.
-
-Ensure your report is well-documented, clearly presenting your findings and insights from the project.
-
 ## Conclusion
 This README provides a structured outline of the Flower Classification project, guiding you through data preparation, model development, evaluation, and reporting. Following these instructions will help you achieve the project's objectives and produce meaningful results in flower classification. Good luck with your project!
