@@ -53,6 +53,3 @@ Compare the performance of the different models by conducting evaluations on the
 
 - Compute accuracy and Macro F-Score for each model.
 - Generate confusion matrices to identify the most confusing classes.
-
-## Conclusion
-This README provides a structured outline of the Flower Classification project, guiding you through data preparation, model development, evaluation, and reporting. Following these instructions will help you achieve the project's objectives and produce meaningful results in flower classification. Good luck with your project!
